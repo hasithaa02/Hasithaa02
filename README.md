@@ -58,5 +58,5 @@ _"AI and basketball both require quick decision-making—one on the court, the o
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=yourgithubusername&label=Profile%20Views&color=12&icon=0&pretty=true)](https://github.com/yourgithubusername)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=hasithaa02&label=Profile%20Views&color=12&icon=0&pretty=true)](https://github.com/hasithaa02)
 
