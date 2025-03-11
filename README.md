@@ -48,7 +48,7 @@
 
 ### **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&theme=github_dark&count_private=false&show_icons=true&hide_rank=true&custom_title=📈Hasit's&nbsp;GitHub&nbsp;Stats&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasithaa02&theme=github_dark&count_private=false&show_icons=true&hide_rank=true&custom_title=📈Hasitha's&nbsp;GitHub&nbsp;Stats&include_all_commits=true" />
 </p>
 
 ---
