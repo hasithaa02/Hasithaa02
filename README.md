@@ -27,9 +27,9 @@
 ### **📫 Let's Connect:**
 <a href="mailto:hasithareddye@gmail.com" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png" alt="Gmail" style="width:45px;height:45px;"></a>
 &nbsp;&nbsp;
-<a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/hasitha-reddy-eppalapalli-ab290a230/)" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
+<a href="https://www.linkedin.com/in/hasitha-reddy-eppalapalli-ab290a230/" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" alt="LinkedIn" style="width:45px;height:45px;"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/yourgithubusername" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="GitHub" style="width:45px;height:45px;"></a>
+<a href="https://github.com/hasithaa02" target='_blank'><img src="https://cdn.iconscout.com/icon/free/png-256/github-1521500-1288242.png" alt="GitHub" style="width:45px;height:45px;"></a>
 
 ---
 
