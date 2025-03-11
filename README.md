@@ -54,7 +54,7 @@
 <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="SciKit Learn" style="width:85px;height:60px;"></a>&nbsp;
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/tensorflow-3629539-3032317.png" alt="TensorFlow" style="width:50px;"></a>&nbsp;&nbsp;
 <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/pytorch-3629457-3032322.png" alt="PyTorch" style="width:50px;"></a>&nbsp;&nbsp;
-<a href="https://powerbi.microsoft.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
+<a href="https://powerbi.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" style="width:50px;height:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/mysql-21-1174941.png" alt="MySQL" style="width:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/adobe-premiere-pro-4238649-3516522.png" alt="Adobe Premiere Pro" style="width:50px;"></a>&nbsp;&nbsp;
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-4238646-3516519.png" alt="Adobe Photoshop" style="width:50px;"></a>&nbsp;&nbsp;
